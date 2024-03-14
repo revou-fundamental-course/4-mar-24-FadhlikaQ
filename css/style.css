@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 header>h1 {
     text-align: center;
@@ -22,7 +22,7 @@ header>h1 {
 
 .container-result {
     text-align: center;
-    background-color: whitesmoke;
+    background-color: paleturquoise;
     padding-top: 8px;
     padding-bottom: 24px; 
 }
@@ -30,12 +30,12 @@ header>h1 {
 .container-form {
     text-align: left;
     padding:24px;
-    background-color: whitesmoke;
+    background-color: paleturquoise;
 }
 
 .container-form>div {
     padding:8px;
-    background-color: whitesmoke;
+    background-color: paleturquoise;
 }
 
 button {
@@ -67,4 +67,12 @@ button {
     .main-container {
         flex-direction: column;
     }
+
+#message3
+#message4
+#message5
+#message6 {
+    text-align:justify;
+}
+
 }
